@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" focusable="false" aria-hidden="true">
+<path style="opacity:0.45;fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" d="M20,40C9,40,0,31,0,20S9,0,20,0s20,9,20,20S31,40,20,40z"/>
+<g style="opacity:0.1;">
+	<path d="M20,39C9.5,39,1,30.5,1,20S9.5,1,20,1s19,8.5,19,19S30.5,39,20,39 M20,40c11,0,20-9,20-20S31,0,20,0S0,9,0,20S9,40,20,40
+		L20,40z"/>
+</g>
+<path d="M16.8,28.8l-0.9-0.9l8.3-7.9l-8.3-7.9l0.9-0.9L26,20L16.8,28.8z"/>
+</svg>
